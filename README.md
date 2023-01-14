@@ -1,6 +1,6 @@
 ---
 layout: home
-title: My book
+title: Elliot's blog
 permalink: /
 ---
 

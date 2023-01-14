@@ -1,6 +1,6 @@
 ---
 title: Tips, Warnings, and Dangers
-author: Tao He
+author: Elliot Sun
 date: 2022-06-30
 category: Jekyll
 layout: post

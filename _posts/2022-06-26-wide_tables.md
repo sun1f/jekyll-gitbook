@@ -1,6 +1,6 @@
 ---
 title: Wide tables
-author: Tao He
+author: Elliot Sun
 date: 2022-06-26
 category: Jekyll
 layout: post

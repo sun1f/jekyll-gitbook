@@ -1,10 +1,10 @@
 ---
 title: Page with cover image
-author: Tao He
+author: Elliot Sun
 date: 2022-05-24
 category: Jekyll
 layout: post
-cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
+cover: https://img.zcool.cn/community/03711d359f85109a801202b0ca79521.jpg
 ---
 
 The jekyll-gitbook theme supports adding a cover image to a specific page by adding
