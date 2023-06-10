@@ -1,12 +1,12 @@
 ---
 title: OpenMVS学习记录
 author: Elliot Sun
-date: 2023-06-10
+date: 2023-06-08
 category: Jekyll
 layout: post
 ---  
 # OpenMVS学习记录  
-> 最近利用碎片化时间在学习一个三维重建系统OpenMVS。还没全学完，马马虎虎整理下
+> 最近利用碎片化时间在学习一个三维重建系统OpenMVS。还没全学完，马马虎虎整理下  
 ## 1 OpenMVS介绍与立体视觉基础  
  ...  
 ## 2 稠密重建  
