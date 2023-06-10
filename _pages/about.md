@@ -4,7 +4,7 @@ author: Elliot Sun
 date: 2023-01-01
 category: Jekyll
 layout: post
-cover: https://img.zcool.cn/community/03711d359f85109a801202b0ca79521.jpg
+cover:  https://s1.ax1x.com/2023/06/10/pCVex0S.png
 ---
 
 This is an about page showing something about me and this blog.🛎  
